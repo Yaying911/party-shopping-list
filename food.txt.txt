@@ -6,3 +6,6 @@ sausage
 pasta
 chicken rice
 bar cho mee
+chips
+biscuits
+cereals
